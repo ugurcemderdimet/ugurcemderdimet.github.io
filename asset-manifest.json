@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ugurcemderdimet.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/ugurcemderdimet.github.io/static/js/main.2ea9d3d8.chunk.js",
+    "main.js.map": "/ugurcemderdimet.github.io/static/js/main.2ea9d3d8.chunk.js.map",
+    "runtime-main.js": "/ugurcemderdimet.github.io/static/js/runtime-main.0e2daeda.js",
+    "runtime-main.js.map": "/ugurcemderdimet.github.io/static/js/runtime-main.0e2daeda.js.map",
+    "static/js/2.934643ac.chunk.js": "/ugurcemderdimet.github.io/static/js/2.934643ac.chunk.js",
+    "static/js/2.934643ac.chunk.js.map": "/ugurcemderdimet.github.io/static/js/2.934643ac.chunk.js.map",
+    "static/js/3.77f79277.chunk.js": "/ugurcemderdimet.github.io/static/js/3.77f79277.chunk.js",
+    "static/js/3.77f79277.chunk.js.map": "/ugurcemderdimet.github.io/static/js/3.77f79277.chunk.js.map",
+    "index.html": "/ugurcemderdimet.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ugurcemderdimet.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.934643ac.chunk.js.LICENSE.txt": "/ugurcemderdimet.github.io/static/js/2.934643ac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ugurcemderdimet.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e2daeda.js",
+    "static/js/2.934643ac.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2ea9d3d8.chunk.js"
+  ]
+}
